@@ -1,0 +1,65 @@
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.pdb
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.dll
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.pdb
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.dll
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.pdb
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.dll
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.pdb
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.dll
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.pdb
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.dll
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.pdb
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.dll
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaNegocios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaNegocios\obj\Debug\CapaNegocios.pdb

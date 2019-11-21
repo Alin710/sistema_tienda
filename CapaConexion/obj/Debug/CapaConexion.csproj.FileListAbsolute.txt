@@ -1,0 +1,37 @@
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.pdb
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.dll
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.pdb
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.dll
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaConexion\obj\Debug\CapaConexion.pdb

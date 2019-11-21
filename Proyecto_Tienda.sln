@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Tienda", "Proyecto_Tienda\Proyecto_Tienda.csproj", "{6E32C4A3-97A3-48ED-B698-16E82C846C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaConexion", "CapaConexion\CapaConexion.csproj", "{F8789350-4CFD-4DF6-A0CC-99511B4D6FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocios", "CapaNegocios\CapaNegocios.csproj", "{E24FBD53-FB68-4AF8-88CC-0904C9B5F589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaControl", "CapaControl\CapaControl.csproj", "{DCE7BFE6-0315-4FDA-83B0-85B24599296D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E32C4A3-97A3-48ED-B698-16E82C846C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E32C4A3-97A3-48ED-B698-16E82C846C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E32C4A3-97A3-48ED-B698-16E82C846C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E32C4A3-97A3-48ED-B698-16E82C846C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8789350-4CFD-4DF6-A0CC-99511B4D6FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8789350-4CFD-4DF6-A0CC-99511B4D6FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8789350-4CFD-4DF6-A0CC-99511B4D6FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8789350-4CFD-4DF6-A0CC-99511B4D6FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24FBD53-FB68-4AF8-88CC-0904C9B5F589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24FBD53-FB68-4AF8-88CC-0904C9B5F589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24FBD53-FB68-4AF8-88CC-0904C9B5F589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24FBD53-FB68-4AF8-88CC-0904C9B5F589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE7BFE6-0315-4FDA-83B0-85B24599296D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE7BFE6-0315-4FDA-83B0-85B24599296D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE7BFE6-0315-4FDA-83B0-85B24599296D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE7BFE6-0315-4FDA-83B0-85B24599296D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://evaluacionparcial.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CapaConexion\\CapaConexion.csproj
+		SccProjectName1 = CapaConexion
+		SccLocalPath1 = CapaConexion
+		SccProjectUniqueName2 = CapaControl\\CapaControl.csproj
+		SccProjectName2 = CapaControl
+		SccLocalPath2 = CapaControl
+		SccProjectUniqueName3 = CapaNegocios\\CapaNegocios.csproj
+		SccProjectName3 = CapaNegocios
+		SccLocalPath3 = CapaNegocios
+		SccProjectUniqueName4 = Proyecto_Tienda\\Proyecto_Tienda.csproj
+		SccProjectName4 = Proyecto_Tienda
+		SccLocalPath4 = Proyecto_Tienda
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,301 @@
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.dll
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.dll
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.pdb
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csprojResolveAssemblyReference.cache
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCliente.resources
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmEmpleado.resources
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal.resources
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteCliente.resources
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteEmpleado.resources
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.GenerateResource.Cache
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.cache
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.compiled
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+C:\Users\juand\Documents\Visual Studio 2012\Projects\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.dll
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.dll
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.pdb
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.pdb
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csprojResolveAssemblyReference.cache
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCliente.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmEmpleado.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteCliente.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteEmpleado.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.GenerateResource.Cache
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.cache
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.compiled
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.dll
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.dll
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.pdb
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.pdb
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csprojResolveAssemblyReference.cache
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCliente.resources
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmContrato.resources
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmEmpleado.resources
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal.resources
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteCliente.resources
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteEmpleado.resources
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.GenerateResource.Cache
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.cache
+F:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.compiled
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCliente.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmContrato.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmEmpleado.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteCliente.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteEmpleado.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.GenerateResource.Cache
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.cache
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.compiled
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csprojResolveAssemblyReference.cache
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteContrato.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ConsultasContrato.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmLogin.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_ADM.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_Empleado.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_personas.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_empleados_Filtros.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.estadisticas_empleado_rubro.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_personas.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.estadisticas_empleado_rubro.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ConsultasContrato.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmContrato.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmLogin.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_ADM.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_Empleado.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteContrato.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_empleados_Filtros.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmUsuario.resources
+E:\juan\Sistema de Informacion III\proyecto Calzados\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmVenta.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmUsuario.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmVenta.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Venta.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_Venta.resources
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_pivot_venta.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csprojResolveAssemblyReference.cache
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_personas.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_productos.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_Venta.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmBitacora_Venta.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCancelar_Venta.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCliente.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ConsultasContrato.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmContrato.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmEmpleado.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmLogin.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_ADM.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_Empleado.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmUsuario.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteContrato.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteCliente.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteEmpleado.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_empleados_Filtros.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmVenta.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_pivot_venta.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Productos.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Venta.resources
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.GenerateResource.Cache
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.cache
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.compiled
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csprojResolveAssemblyReference.cache
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_personas.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_productos.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_Venta.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmBitacora_Venta.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmBloquear.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCancelar_Venta.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCliente.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ConsultasContrato.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_lotes.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmContrato.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmEmpleado.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmLogin.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_ADM.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_Empleado.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmUsuario.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteContrato.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteCliente.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteEmpleado.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_empleados_Filtros.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmVenta.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Lotes.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_pivot_venta.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Productos.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Venta.resources
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.GenerateResource.Cache
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.cache
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.compiled
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+C:\Users\juand\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csprojResolveAssemblyReference.cache
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_personas.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_productos.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_Venta.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmBitacora_Venta.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmBloquear.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCancelar_Venta.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCliente.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ConsultasContrato.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_lotes.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmContrato.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmEmpleado.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmLogin.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_ADM.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_Empleado.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmUsuario.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteContrato.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteCliente.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteEmpleado.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_empleados_Filtros.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmVenta.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Lotes.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_pivot_venta.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Productos.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Venta.resources
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.GenerateResource.Cache
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.cache
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.compiled
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csprojResolveAssemblyReference.cache
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_personas.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_productos.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_Venta.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmBitacora_Venta.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmBloquear.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCancelar_Venta.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCliente.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ConsultasContrato.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_lotes.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmContrato.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmEmpleado.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmLogin.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_ADM.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_Empleado.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmUsuario.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteContrato.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteCliente.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteEmpleado.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_empleados_Filtros.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmVenta.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Lotes.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_pivot_venta.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Productos.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Venta.resources
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.GenerateResource.Cache
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.cache
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\RdlCompile.compiled
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaConexion.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaControl.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\CapaNegocios.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_personas.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_productos.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_Venta.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmBitacora_Venta.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmBloquear.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCancelar_Venta.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmCliente.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ConsultasContrato.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Consultas_lotes.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmContrato.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmEmpleado.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmLogin.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_ADM.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmPrincipal_Empleado.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmUsuario.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteContrato.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteCliente.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.ReporteEmpleado.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_empleados_Filtros.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.FrmVenta.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Lotes.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_pivot_venta.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Productos.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.Reporte_Venta.resources
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.GenerateResource.Cache

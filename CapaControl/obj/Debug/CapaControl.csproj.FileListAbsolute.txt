@@ -1,0 +1,42 @@
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.csprojResolveAssemblyReference.cache
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.dll
+C:\Users\juand\Desktop\juan\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.pdb
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.csprojResolveAssemblyReference.cache
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.dll
+E:\juan\Sistema de Informacion III\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.pdb
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.csprojResolveAssemblyReference.cache
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.dll
+C:\Users\juand\Desktop\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.pdb
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.csprojResolveAssemblyReference.cache
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.dll
+G:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.pdb
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.csprojResolveAssemblyReference.cache
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.dll
+F:\juan carlos\practicos y tareas\auxiliar laboratorios\2016\7.-Sistema de Informacion III\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaControl\bin\Debug\CapaControl.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaControl\bin\Debug\CapaConexion.pdb
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.dll
+C:\Users\USUARIO2016\Desktop\Proyecto_Tienda\CapaControl\obj\Debug\CapaControl.pdb
