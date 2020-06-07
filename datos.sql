@@ -104,6 +104,7 @@ insert into empleado values(127,'awd@gmail.com','aa.jpg')
 insert into empleado values(128,'aid@gmail.com','aa.jpg')
 insert into empleado values(129,'dfd@gmail.com','aa.jpg')
 insert into empleado values(130,'dfd@gmail.com','aa.jpg')
+insert into empleado values(131,'dfd@gmail.com','aa.jpg')
 go
 insert into cliente values(131,'32222',2)
 insert into cliente values(132,'2111233',2)
